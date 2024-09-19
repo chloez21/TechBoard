@@ -3,8 +3,9 @@ TechBoard is a platform for sharing engineering knowledge and foster collaborati
 
 ![image](https://github.com/user-attachments/assets/00e16e01-1c6c-431b-add8-f5c7ab0e7c01)
 ![image](https://github.com/user-attachments/assets/b58b55fb-468f-49b0-a1f5-9d7ae995446a)
-![image](https://github.com/user-attachments/assets/3957c382-c030-4fbe-ac5d-d321bf3685da)
-![image](https://github.com/user-attachments/assets/54750a8b-a6df-45aa-9bc9-502dda0c16e5)
+
+<img width="433" alt="image" src="https://github.com/user-attachments/assets/d0838576-f28f-4c7b-a6b7-bfc304c2b3e5">
+<img width="433" alt="image" src="https://github.com/user-attachments/assets/3957c382-c030-4fbe-ac5d-d321bf3685da">
 
 # Installation
 
